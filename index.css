@@ -1,5 +1,5 @@
 body {
-    background-color: fefae0;
+    background-color: whitesmoke;
     width: 100hw;
     height: 100hv;
     
@@ -39,7 +39,7 @@ a {
    
 }
 .link-nav:hover {
-    background-color: fefae0;
+    background-color: whitesmoke;
     border-radius: 20px;
 }
 
@@ -65,7 +65,7 @@ a {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background-color: fefae0;
+    background-color: whitesmoke;
     box-shadow: 8px 8px 10px 4px rgba(0,0,0,0.5);
     font-family: 'Aboreto', cursive;
     
@@ -146,6 +146,7 @@ button {
         flex-wrap: wrap-reverse;
     }
     .textos {
+        justify-content: flex-start;
         width: 100%;
         height: 50%;
         font-size: 0.7rem;
