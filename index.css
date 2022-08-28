@@ -148,9 +148,16 @@ button {
     .textos {
         width: 100%;
         height: 50%;
+        font-size: 0.7rem;
     }
     .box-imagen {
         width: 100%;
         height: 50%;
     }
+    button {
+        width: 15rem;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+   
 }
